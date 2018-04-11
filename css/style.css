@@ -1,0 +1,64 @@
+body{
+    background-color: #fffbe1;
+}
+  
+     header{
+	    background-image:url("../images/backgroundimage.jpg");
+        background-size: cover;
+        width: 100%;
+        max-width: 990px
+        height: auto;
+         text-align: center;
+        }
+    nav{
+    	background-color: white;
+        padding: 10px;
+        margin: 0px;
+    }
+    .ul{
+    	font-family: 'Montserrat', sans-serif;
+    	color: black;
+    }    
+    .li1{
+    	display: inline;
+    }
+    .li2{
+    	display: inline;
+    }
+    .li3{
+    	display: inline;
+    }
+    .li4{
+    	display: inline;
+    }
+    a:link{
+        color: #45731c;
+        font-family: 'Montserrat', sans-serif;
+        text-decoration: none;
+    }
+
+ @-webkit-keyframes coloranim{
+ 	0%{
+ 		background-color: #45731c;
+ 	}
+ 	50%{
+ 		background-color: #a4b862;
+ 	}
+ 	100%{
+ 		background-color: #cad99b;
+ 	}
+
+ }
+div {
+    width: 100%;
+    height: 100px;
+    background-color: #81963e;
+    position: relative;
+    -webkit-animation-name: coloranim;
+    -webkit-animation-duration: 4s; 
+    -webkit-animation-iteration-count: infinite;
+}
+
+
+
+

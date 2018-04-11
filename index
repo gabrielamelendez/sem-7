@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <title>Mas agria que un limon</title>
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600" rel="stylesheet">
+
+</head>
+<header>
+    <h1><img src="images/logoagria.png" align="center"></h1>
+    <nav>
+        <ul class="ul">
+         <li class="li1"><a href="#">Inicio</a></li>
+          |
+         <li class="li2"><a href="#">Diseños</a></li>
+          |
+         <li class="li3"><a href="#">Tienda</a></li>
+          |
+         <li class="li4"><a href="#">Sobre Nosotros</a> </li>
+        </ul>
+    </nav>
+</header>
+<body>
+ <div> </div>
+
+
+</body>
+</html>
